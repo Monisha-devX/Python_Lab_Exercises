@@ -1,1 +1,21 @@
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 1
+Enter student name: Monisha
+Enter roll number: 036
+Enter marks: 78
+Student record saved.
 
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: exit
+Invalid choice.
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
