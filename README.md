@@ -23,8 +23,12 @@ This repository contains Python programs completed as part of my lab practice.
 
 # Language Used
 
--Python
+- Python
+# Repository Contents
+
+- Python source code (".py")
+- Program outputs (".txt")
 
 # Author
 
-Monisha
+  Monisha
