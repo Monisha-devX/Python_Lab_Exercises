@@ -1,0 +1,32 @@
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 1
+Enter employee ID: 562
+Enter employee name: Aryan
+Enter hours worked: 87
+Enter hourly pay rate: 900
+Payroll record saved. Gross pay: 78300.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 2
+Employee ID | Name | Hours | Hourly Rate | Gross Pay
+562 | Aryan | 87.0 | 900.0 | 78300.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: exit
+Invalid choice.
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 3
+Exiting payroll system.
