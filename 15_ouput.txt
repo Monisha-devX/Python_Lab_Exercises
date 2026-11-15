@@ -1,0 +1,38 @@
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 1
+Enter book ID: 88
+Enter book title: Wonder
+Enter author name: JK Rowling
+Book added successfully.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 3
+Enter book ID to issue: 44
+Book not found.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 3
+Enter book ID to issue: 88
+Book issued successfully.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
