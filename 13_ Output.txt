@@ -3,10 +3,10 @@
 2. View payroll
 3. Exit
 Enter choice: 1
-Enter employee ID: 562
-Enter employee name: Aryan
-Enter hours worked: 87
-Enter hourly pay rate: 900
+Enter employee ID: 223AC
+Enter employee name: Sanju
+Enter hours worked: 98
+Enter hourly pay rate: 1000
 Payroll record saved. Gross pay: 78300.0
 
 --- Payroll Management ---
