@@ -1,15 +1,22 @@
-# Frequency Counter Using Dictionaries
-
-text = input("Enter a sentence: ")
-frequency = {}
-
-for character in text:
-    if character != " ":
-        frequency[character] = frequency.get(character, 0) + 1
-
-print("\nCharacter frequencies:")
-for character, count in frequency.items():
-    print(character, ":", count)
-
+Name = input("Enter your name: ")
+USN = input("Enter your usn: ")
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+print("Hello,", Name)
+print("\nUSN,", USN)
+# Arithmetic Operators
+print("\n--- Arithmetic Operators ---")
+print("Addition =", num1 + num2)
+print("Subtraction =", num1 - num2)
+print("Multiplication =", num1 * num2)
+print("Division =", num1 / num2)
+print("Modulus =", num1 % num2)
+print("Power =", num1 ** num2)
+# Comparison Operators
+print("\n--- Comparison Operators ---")
+print("num1 > num2 =", num1 > num2)
+print("num1 < num2 =", num1 < num2)
+print("num1 == num2 =", num1 == num2)
+print("num1 != num2 =", num1 != num2)
 
 
